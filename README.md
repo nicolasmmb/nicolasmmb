@@ -1,4 +1,4 @@
-# :pushpin: Olá, meu nome é ***Nícolas Marques de Moura Barbosa***
+# :black_nib: Olá, meu nome é ***Nícolas Marques de Moura Barbosa***
 
 >
 
@@ -13,10 +13,10 @@
 ----
 
 
-# 🚀 Skills
+# :open_file_folder: Skills
 
 <br><br/>
-## Programação:
+## :pushpin: Programação:
 
 
 - ### Experiência:
@@ -32,7 +32,7 @@
 
 ---
 <br><br/>
-## Banco de Dados
+## :pushpin: Banco de Dados
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/></code>
@@ -41,7 +41,7 @@
 
 ---
 <br><br/>
-## Cloud:
+## :pushpin: Cloud:
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku"/></code>
@@ -50,7 +50,7 @@
 
 ---
 <br><br/>
-## GIT:
+## :pushpin: GIT:
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
@@ -58,7 +58,7 @@
 
 ---
 <br><br/>
-## Outros:
+## :pushpin: Outros:
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello"/></code>
@@ -67,7 +67,7 @@
 
 ---
 <br><br/>
-## Social
+## :sunglasses: Social
 <p align="left">
   <a target="_blank"href="mailto:nikorasu.mmb@gmail.com" alt="GMAIL">
   <img src="https://img.shields.io/badge/-nicolas.mmb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="nikorasu.mmb@gmail.com" /></a>
