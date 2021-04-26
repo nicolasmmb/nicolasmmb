@@ -12,9 +12,9 @@
 
 ----
 
+
 # 🚀 Skills
 
-----
 <br><br/>
 ## Programação:
 
@@ -41,6 +41,7 @@
 
 ---
 <br><br/>
+<br><br/>
 ## Cloud:
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean"/></code>
@@ -50,6 +51,7 @@
 
 ---
 <br><br/>
+<br><br/>
 ## GIT:
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab"/></code>
@@ -57,6 +59,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
 
 ---
+<br><br/>
 <br><br/>
 ## Outros:
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
@@ -66,6 +69,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JupyterNotebook"/></code>
 
 ---
+<br><br/>
 <br><br/>
 ## Social
 <p align="left">
