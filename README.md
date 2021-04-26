@@ -22,11 +22,12 @@
 # 🚀 Skills
 
 >## Programação:
-### Experiência:
+ 
+- ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp"/></code>
-
-### Estudando:
+ 
+- ### Estudando:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/></code>
@@ -42,20 +43,24 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/></code>
-
+  
+  
+ 
 >## Cloud:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/></code>
-
-
+ 
+  
+ 
 >## GIT:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
-
-
+ 
+  
+   
 >## Outros:
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
