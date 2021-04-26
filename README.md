@@ -1,3 +1,4 @@
+
 # :black_nib: Olá, meu nome é ***Nícolas Marques de Moura Barbosa***
 # :file_folder:<strong>Projetos</strong>:
   - **Crei alguns WebScrapers para consulta de dados dentre eles**:
@@ -98,9 +99,58 @@
 
   <a target="_blank" href="https://www.instagram.com/nicolas.mmb/" alt="Instagram">
   <img src="https://img.shields.io/badge/-nicolas.mmb-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
+
+<a target="_blank" href="https://myanimelist.net/profile/NICKMMB" alt="Instagram">
+  <img src="https://img.shields.io/badge/-NICKMMB-DF0174?style=flat-square&labelColor=DF0174&logo=MyAnimeList&logoColor=white"/></a> &nbsp;
 </p>  
 <br><br/>
 
 ## ⭐ Informações sobre minha conta GitHub
 [![card](https://github-readme-stats.vercel.app/api?username=nicolasmmb&theme=tokyonight)](https://github.com/nicolasmmb/)
+
+
+
+----
+<br><br/>
+### Animes: >_<
+
+
+<img height="40" width="40" src="https://i.pinimg.com/originals/aa/7a/ad/aa7aad936ff5a4f51240dbcc8a8c6147.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/0b/7c/3b/0b7c3bfdfb2174dd00c1cd374f8ae1ef.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/3e/63/dd/3e63ddde433db7d33ba191b412053851.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/ef/b0/33/efb0335121704f59546def260c012589.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/5f/e9/46/5fe94654e864bddf63fd54a25fa0fb25.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/50/1c/6b/501c6b26d450c96c12bc9c7eee593336.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/a3/fc/cd/a3fccd3391d2f947713ac032fe1effc3.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/5a/22/45/5a22459a0fc5a3c2348fd9b795d3c113.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/c4/b3/ed/c4b3ed36eb2119b6921a7b8858fc155c.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/86/42/0b/86420bc6a3788baff27ad79740858d70.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/3a/2a/3f/3a2a3f55f66c16f03b53f63efd718e82.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/99/86/98/998698d78d2eeab03e49ebe789553c8f.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/79/1c/84/791c8473f1d9617b9e6942f44ec85ea6.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/10/70/e0/1070e0df4fbb22fec3fa5c2f9f585f66.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/ac/5c/c6/ac5cc6bce6b0fa827bcdf649c82d44c4.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/ba/c1/96/bac1962152335a0ef536d6f9cf154da5.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/d5/05/c5/d505c5d7f515e3373baf91ff89339816.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/b0/27/95/b027954b12178ee9aaafc01735f12ba8.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/49/fd/f9/49fdf9e93bd214542be60ab9c5c4ac7e.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/24/f4/2b/24f42b95ab1669e328e55405e8608370.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/3a/8f/20/3a8f20f5aa63d023409892fbfb7d4a41.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/d4/ab/37/d4ab376e16a9ef04fac184fea4c0a958.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/fb/d5/4b/fbd54bb1ae7f3b1c70d54fefb15ec9f6.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/80/5f/6e/805f6e9827b4ec27b14ce32776183bde.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/b6/18/22/b618222fc9efd24750b761c8f3509568.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/97/bd/99/97bd992a6db9fe3b960674a7e4aba047.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/99/ad/38/99ad389f77134e52fc89fc38878b839a.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/c0/0c/98/c00c985db82537b64b7fd3dde2d00797.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/cb/57/1e/cb571e32cd241b27e75fb8c3ce6d53d5.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/bc/72/69/bc726954530259e4d25d00cd10e5f841.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/bc/72/69/bc726954530259e4d25d00cd10e5f841.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/6e/bd/05/6ebd05a866764668b301725403da7e8b.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/ee/9a/fa/ee9afa3c5a62ab71859044b510148e4b.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/e1/a2/d0/e1a2d0cf50b154297597bd6ea8119f22.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/f6/20/79/f620797a6e17d4fd42108128e3ec2739.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/0a/e4/1d/0ae41dfed869289c6027e2c1229ca7fa.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/df/0f/99/df0f99889a73fc7256c68eee6582f95a.gif" alt=""/>&nbsp;
+<img height="40" width="40" src="https://i.pinimg.com/originals/dd/21/31/dd21315bfb3902bc0fea0f567a947f0b.gif" alt=""/>&nbsp;
 
