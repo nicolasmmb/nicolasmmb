@@ -85,7 +85,7 @@
 
 # :sunglasses: Social
 <p align="center">
-  <a target="_blank"href="mailto:nikorasu.mmb@gmail.com" alt="GMAIL">
+  <a target="_blank"href="mailto:nicolas.mmb@gmail.com" alt="Outlook">
   <img src="https://img.shields.io/badge/-nicolas.mmb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="nikorasu.mmb@gmail.com" /></a> &nbsp;
 
   <a target="_blank" href="https://www.linkedin.com/in/nicolasmmb/" alt="Linkedin">
@@ -100,8 +100,8 @@
   <a target="_blank" href="https://www.instagram.com/nicolas.mmb/" alt="Instagram">
   <img src="https://img.shields.io/badge/-nicolas.mmb-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
 
-<a target="_blank" href="https://myanimelist.net/profile/NICKMMB" alt="Instagram">
-  <img src="https://img.shields.io/badge/-NICKMMB-DF0174?style=flat-square&labelColor=DF0174&logo=MyAnimeList&logoColor=white"/></a> &nbsp;
+<a target="_blank" href="https://myanimelist.net/profile/NICKMMB" alt="MyAnimeList">
+  <img src="https://img.shields.io/badge/-NICKMMB-0072c6?style=flat-square&labelColor=0072c64&logo=MyAnimeList&logoColor=white"/></a> &nbsp;
 </p>  
 <br><br/>
 
