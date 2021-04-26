@@ -30,7 +30,8 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 
 ---
-<br><br/>
+
+
 ## :pushpin: Banco de Dados
 
 
@@ -41,7 +42,8 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/></code>
 
 ---
-<br><br/>
+
+
 ## :pushpin: Cloud:
 
 
@@ -52,7 +54,8 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/></code>
 
 ---
-<br><br/>
+
+
 ## :pushpin: GIT:
 
 
@@ -62,7 +65,8 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
 
 ---
-<br><br/>
+
+
 ## :pushpin: Outros:
 
 
