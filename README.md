@@ -21,7 +21,7 @@
 
 # 🚀 Skills
 
-## Programação:
+>## Programação:
 ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp"/></code>
@@ -34,28 +34,29 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 
 
-## Cloud:
+
+
+>## Baco de Dados
+### Experiência:
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/></code>
+
+>## Cloud:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/></code>
 
 
-## Baco de Dados
-###Experiência:
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/></code>
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/></code>
-
-
-## GIT:
+>## GIT:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
 
 
-## Outros:
+>## Outros:
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello"/></code>
