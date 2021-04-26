@@ -29,7 +29,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 
----
+----
 
 
 ## :pushpin: Banco de Dados
@@ -41,7 +41,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/></code>
 
----
+----
 
 
 ## :pushpin: Cloud:
@@ -53,7 +53,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/></code>
 
----
+----
 
 
 ## :pushpin: GIT:
@@ -64,7 +64,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
 
----
+----
 
 
 ## :pushpin: Outros:
@@ -76,9 +76,9 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JupyterNotebook"/></code>
 
----
+----
 <br><br/>
-## :sunglasses: Social
+# :sunglasses: Social
 <p align="left">
   <a target="_blank"href="mailto:nikorasu.mmb@gmail.com" alt="GMAIL">
   <img src="https://img.shields.io/badge/-nicolas.mmb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="nikorasu.mmb@gmail.com" /></a>
