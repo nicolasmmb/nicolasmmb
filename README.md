@@ -5,9 +5,8 @@
     - Para consulta de imóveis, como Projeto de Iniciação Científica ***(Laudo de Avaliação de Imóveis - FAI • UFSCar)***.
     - Para consulta de Animes, como projeto pessoal.
 ----
-
-
 <br><br/>
+
 
 # :open_file_folder: Skills
 ## :pushpin: Programação:
@@ -19,7 +18,6 @@
 </p>
 
 - ### Estudando:
-
 <p align="center">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>&nbsp;&nbsp;
@@ -32,22 +30,17 @@
 
 ## :pushpin: Banco de Dados
 - ### Experiência:
-
 <p align="center">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>&nbsp;&nbsp;
-    <img style="display: none;" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/>&nbsp;&nbsp;
 </p>
 <br><br/>
 
 
 ## :pushpin: Cloud:
 - ### Experiência:
-
 <p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/>&nbsp;&nbsp;
 </p>
@@ -55,7 +48,6 @@
 
 
 ## :pushpin: GIT:
-
 - ### Experiência:
 <p align="center">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab"/>&nbsp;&nbsp;
@@ -66,7 +58,6 @@
 
 
 ## :pushpin: Outros:
-
 <p align="center">
     <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>&nbsp;&nbsp;
@@ -77,7 +68,6 @@
 <br><br/>
 
 
-<br><br/>
 # :sunglasses: Social
 <p align="center">
   <a target="_blank"href="mailto:nikorasu.mmb@gmail.com" alt="GMAIL">
