@@ -34,6 +34,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 ---
+<br><br/>
 >## Banco de Dados
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
@@ -41,6 +42,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/></code>
 ---
+<br><br/>
 >## Cloud:
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean"/></code>
@@ -48,20 +50,22 @@
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/></code>
 ---
+<br><br/>
 >## GIT:
 - ### Experiência:
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
 ---
+<br><br/>
 >## Outros:
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JupyterNotebook"/></code>
-
-
+---
+<br><br/>
 ## Social
 <p align="left">
   <a target="_blank"href="mailto:nikorasu.mmb@gmail.com" alt="GMAIL">
