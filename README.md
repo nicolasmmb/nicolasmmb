@@ -67,6 +67,20 @@
 </p>
 <br><br/>
 
+---
+
+# :open_file_folder: Ferramentas Microsoft:
+<p align="center">
+    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Power%20Platform/SVG/Power-Bi.svg" alt="PowerBi"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Excel.svg" alt="Excel"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Word.svg" alt="Word"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Powerpoint.svg" alt="PowerPoint"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Teams.svg" alt="Teams"/>&nbsp;&nbsp;
+   <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Outlook.svg" alt="Outlook"/>&nbsp;&nbsp;
+</p>
+<br><br/>
+
+
 
 # :sunglasses: Social
 <p align="center">
