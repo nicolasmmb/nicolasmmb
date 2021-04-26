@@ -7,17 +7,10 @@
     - Para uma rede atacadista ***(Spani & Grupo Zaragoza)*** com foco em Inteligencia de Mercado.
     - Para consulta de imóveis, como Projeto de Iniciação Científica ***(Laudo de Avaliação de Imóveis - FAI • UFSCar)***.
     - Para consulta de Animes, como projeto pessoal.
-   
-  - **Crei alguns WebScrapers para consulta de dados dentre eles**:
-    - Para uma rede atacadista ***(Spani & Grupo Zaragoza)*** com foco em Inteligencia de Mercado.
-    - Para consulta de imóveis, como Projeto de Iniciação Científica ***(Laudo de Avaliação de Imóveis - FAI • UFSCar)***.
-    - Para consulta de Animes, como projeto pessoal.
-   
+     
 
-  
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
----- 
+----
 
 # 🚀 Skills
 
