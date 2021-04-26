@@ -1,5 +1,5 @@
 # :black_nib: Olá, meu nome é ***Nícolas Marques de Moura Barbosa***
-## :file_folder:<strong>Projetos</strong>:
+# :file_folder:<strong>Projetos</strong>:
   - **Crei alguns WebScrapers para consulta de dados dentre eles**:
     - Para uma rede atacadista ***(Spani & Grupo Zaragoza)*** com foco em Inteligencia de Mercado.
     - Para consulta de imóveis, como Projeto de Iniciação Científica ***(Laudo de Avaliação de Imóveis - FAI • UFSCar)***.
