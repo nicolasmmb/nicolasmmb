@@ -27,9 +27,9 @@
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
 </p>
-
-
 ----
+
+
 ## :pushpin: Banco de Dados
 - ### Experiência:
 
@@ -39,9 +39,9 @@
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"/>
 </p>
-
-
 ----
+
+
 ## :pushpin: Cloud:
 - ### Experiência:
 
@@ -51,9 +51,9 @@
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud"/>
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/>
 </p>
-
-
 ----
+
+
 ## :pushpin: GIT:
 
 - ### Experiência:
@@ -62,9 +62,9 @@
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/>
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
 </p>
-
-
 ----
+
+
 ## :pushpin: Outros:
 
 <p align="center">
@@ -74,12 +74,12 @@
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JupyterNotebook"/>
 </p>
-
-
 ----
+
+
 <br><br/>
 # :sunglasses: Social
-<p align="left">
+<p align="center">
   <a target="_blank"href="mailto:nikorasu.mmb@gmail.com" alt="GMAIL">
   <img src="https://img.shields.io/badge/-nicolas.mmb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="nikorasu.mmb@gmail.com" /></a>
 
@@ -95,6 +95,7 @@
   <a target="_blank" href="https://www.instagram.com/nicolas.mmb/" alt="Instagram">
   <img src="https://img.shields.io/badge/-nicolas.mmb-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 </p>  
----
+----
+
 ## ⭐ Informações sobre minha conta GitHub
 [![card](https://github-readme-stats.vercel.app/api?username=nicolasmmb&theme=tokyonight)](https://github.com/nicolasmmb/)
