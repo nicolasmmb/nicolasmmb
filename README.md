@@ -98,4 +98,6 @@
 <br><br/>
 
 ## ⭐ Informações sobre minha conta GitHub
-[![card](https://github-readme-stats.vercel.app/api?username=nicolasmmb&theme=tokyonight)](https://github.com/nicolasmmb/)
+<p align="center">
+    [![card](https://github-readme-stats.vercel.app/api?username=nicolasmmb&theme=tokyonight)](https://github.com/nicolasmmb/)
+</p>  
