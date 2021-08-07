@@ -17,6 +17,8 @@
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask"/>&nbsp;&nbsp;
+  
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp"/>&nbsp;&nbsp;
 </p>
 
