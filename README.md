@@ -1,84 +1,41 @@
+# :black_nib: Olá, meu nome é ***Nícolas Barbosa***
 
-# :black_nib: Olá, meu nome é ***Nícolas Marques de Moura Barbosa***
-# :file_folder:<strong>Projetos</strong>:
-  - **Criei alguns WebScrapers para consulta de dados dentre eles**:
-    - Para uma rede atacadista com foco em Inteligência de Mercado.
-    - Para consulta de imóveis, como Projeto de Iniciação Científica ***(Laudo de Avaliação de Imóveis - FAI • UFSCar)***.
-    - Para consulta de Animes, como projeto pessoal.
-----
+<center>
+ <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmmb&hide=html&layout=compact&theme=tokyonight" /></td>
+      <td><img width="455px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolasmmb&show_icons=true&theme=tokyonight" /></td>
+  </tr>  
+ </table>
+</center>
+
 <br><br/>
 
 
-# :open_file_folder: Skills
-## :pushpin: Programação:
-- ### Experiência:
-
+# :open_file_folder: Main Languages and Technologies
 <p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>&nbsp;&nbsp;
-    <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>&nbsp;&nbsp;
 </p>
 
-- ### Estudando:
 <p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp"/>&nbsp;&nbsp;
-</p>
-<br><br/>
-
-
-## :pushpin: Banco de Dados
-- ### Experiência:
-<p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>&nbsp;&nbsp;
-</p>
-<br><br/>
-
-
-## :pushpin: Cloud:
-- ### Experiência:
-<p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/>&nbsp;&nbsp;
 </p>
-<br><br/>
 
-
-## :pushpin: GIT:
-- ### Experiência:
 <p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="MySQL"/>&nbsp;&nbsp;
+
+</p>
+
+<p align="center">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/>&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
-</p>
-<br><br/>
-
-
-## :pushpin: Outros:
-<p align="center">
-    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JupyterNotebook"/>&nbsp;&nbsp;
-</p>
-<br><br/>
-
----
-
-# :open_file_folder: Ferramentas Microsoft:
-<p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Power%20Platform/SVG/Power-Bi.svg" alt="PowerBi"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Excel.svg" alt="Excel"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Word.svg" alt="Word"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Powerpoint.svg" alt="PowerPoint"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Teams.svg" alt="Teams"/>&nbsp;&nbsp;
-   <img height="60" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/master/Office%20365/SVG/Outlook.svg" alt="Outlook"/>&nbsp;&nbsp;
 </p>
 <br><br/>
 
@@ -106,11 +63,4 @@
 </p>  
 <br><br/>
 
-## ⭐ Informações sobre minha conta GitHub
-[![card](https://github-readme-stats.vercel.app/api?username=nicolasmmb&theme=tokyonight)](https://github.com/nicolasmmb/)
-
-
-
-----
-<br><br/>
 
