@@ -27,8 +27,8 @@
 
 <p align="center">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="MySQL"/>&nbsp;&nbsp;
-
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"/>&nbsp;&nbsp;
 </p>
 
 <p align="center">
