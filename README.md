@@ -55,14 +55,9 @@
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5512991126441&text=Ol%C3%A1!!!" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a> &nbsp;
 
-  <a target="_blank" href="https://www.facebook.com/nicolasmmb/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-nicolasmmb-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a> &nbsp;
-
   <a target="_blank" href="https://www.instagram.com/nicolas.mmb/" alt="Instagram">
   <img src="https://img.shields.io/badge/-nicolas.mmb-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
 
-<a target="_blank" href="https://myanimelist.net/profile/NICKMMB" alt="MyAnimeList">
-  <img src="https://img.shields.io/badge/-NICKMMB-0072c6?style=flat-square&labelColor=0072c64&logo=MyAnimeList&logoColor=white"/></a> &nbsp;
 </p>  
 <br><br/>
 
