@@ -1,8 +1,8 @@
 <center>
  <table>
   <tr>
-      <td><img width="400px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmmb&hide=html&layout=compact&theme=tokyonight" /></td>
-      <td><img width="400px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolasmmb&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="455px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmmb&hide=html&layout=compact&theme=tokyonight" /></td>
+      <td><img width="455px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolasmmb&show_icons=true&theme=tokyonight" /></td>
   </tr>  
  </table>
 </center>
