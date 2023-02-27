@@ -8,7 +8,7 @@
 </center>
 
 
-## :open_file_folder: Main Languages, Technologies and Tools
+## :open_file_folder: Main Languages Databases and Tools.
 <p align="center">
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang"/>&nbsp;&nbsp;
@@ -17,10 +17,11 @@
 </p>
 
 <p align="center">
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>&nbsp;&nbsp;
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;&nbsp;
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="PyTest"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -30,8 +31,10 @@
 </p>
 
 <p align="center">
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;&nbsp;
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/>&nbsp;&nbsp;
 </p>
 <br><br/>
 
@@ -41,7 +44,6 @@
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="GoLang"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible"/>&nbsp;&nbsp;
 </p>
-
 
 
 # :sunglasses: Social
