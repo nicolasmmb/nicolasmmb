@@ -1,7 +1,7 @@
 <center>
  <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmmb&hide=html&layout=compact&theme=tokyonight" /></td>
+      <td><img width="400px" heig align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmmb&hide=html&layout=compact&theme=tokyonight" /></td>
       <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolasmmb&show_icons=true&theme=tokyonight" /></td>
   </tr>  
  </table>
@@ -49,8 +49,8 @@
 
 # :sunglasses: Social
 <p align="center">
-  <a target="_blank"href="mailto:nicolas.mmb@gmail.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/-nicolas.mmb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="nikorasu.mmb@gmail.com" /></a> &nbsp;
+  <a target="_blank"href="mailto:nicolas.mmb@hotmail.com.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/-nicolas.mmb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="nicolas.mmb@hotmail.com" /></a> &nbsp;
 
   <a target="_blank" href="https://www.linkedin.com/in/nicolasmmb/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-nicolasmmb-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a> &nbsp;
