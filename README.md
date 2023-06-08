@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a> &nbsp;
 
   <a target="_blank" href="https://www.instagram.com/nikorasu.py/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-nicolas.mmb-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/-nikorasu.py-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
 
 </p>  
 <br><br/>
