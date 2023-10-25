@@ -58,8 +58,8 @@
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5512991126441&text=Ol%C3%A1!!!" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a> &nbsp;
 
-  <a target="_blank" href="https://www.instagram.com/nikorasu.py/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-nikorasu.py-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
+  <a target="_blank" href="https://www.instagram.com/pedreiro.de.software/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-pedreiro.de.software-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
 
 </p>  
 <br><br/>
