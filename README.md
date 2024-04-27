@@ -8,7 +8,7 @@
 </center>
 
 
-## :open_file_folder: Main Languages Databases and Tools.
+## :open_file_folder: Main Languages / Databases / Tools.
 <p align="center">
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang"/>&nbsp;&nbsp;
