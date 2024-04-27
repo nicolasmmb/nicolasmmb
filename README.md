@@ -41,7 +41,6 @@
 
 ## :open_file_folder: Studying
 <p align="center">
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="GoLang"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible"/>&nbsp;&nbsp;
 </p>
