@@ -36,14 +36,11 @@
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/>&nbsp;&nbsp;
-</p>
-<br><br/>
-
-## :open_file_folder: Studying
-<p align="center">
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="GoLang"/>&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible"/>&nbsp;&nbsp;
 </p>
+<br><br/>
+
 
 
 # :sunglasses: Social
