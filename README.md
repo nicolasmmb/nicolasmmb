@@ -37,17 +37,9 @@
 
 # :sunglasses: Social
 <p align="center">
-  <a target="_blank"href="mailto:nicolas.mmb@hotmail.com.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/-nicolas.mmb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="nicolas.mmb@hotmail.com" /></a> &nbsp;
-
+    
   <a target="_blank" href="https://www.linkedin.com/in/nicolasmmb/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-nicolasmmb-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a> &nbsp;
-
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5512991126441&text=Ol%C3%A1!!!" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a> &nbsp;
-
-  <a target="_blank" href="https://www.instagram.com/pedreiro.de.software/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-pedreiro.de.software-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a> &nbsp;
 
 </p>  
 <br><br/>
